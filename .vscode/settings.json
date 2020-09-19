@@ -1,0 +1,13 @@
+{
+    "python.linting.pylintEnabled": true,
+    "python.linting.flake8Enabled": false,
+    "python.linting.enabled": true,
+    "python.testing.pytestArgs": [
+        "tests"
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.nosetestsEnabled": false,
+    "python.testing.pytestEnabled": true,
+    "python.pythonPath": "C:\\Users\\john\\AppData\\Local\\Microsoft\\WindowsApps\\python.exe",
+    "python.formatting.provider": "black"
+}
